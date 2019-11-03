@@ -1,0 +1,6 @@
+echo "# Week-10-Files-Program" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/djmm702/Week-10-Files-Program.git
+git push -u origin master
